@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "47fb36df13bdbd3067560941b5c79bd3",
+    "revision": "45dfc24c6abd4756608c3ba74b44f6cf",
     "url": "/electron-config-react/index.html"
   },
   {
-    "revision": "d9dbcda633c1314f4bc0",
+    "revision": "ed7b4926368ea1eeea67",
     "url": "/electron-config-react/static/css/main.832c3e0a.chunk.css"
   },
   {
-    "revision": "6c25b068e60ee80ce313",
-    "url": "/electron-config-react/static/js/2.7aa015b1.chunk.js"
+    "revision": "51eb725fffaf9710cc92",
+    "url": "/electron-config-react/static/js/2.acdda2e8.chunk.js"
   },
   {
     "revision": "90565ba0b43e1b95d2876295dfd7014d",
-    "url": "/electron-config-react/static/js/2.7aa015b1.chunk.js.LICENSE.txt"
+    "url": "/electron-config-react/static/js/2.acdda2e8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d9dbcda633c1314f4bc0",
-    "url": "/electron-config-react/static/js/main.227088c1.chunk.js"
+    "revision": "ed7b4926368ea1eeea67",
+    "url": "/electron-config-react/static/js/main.875fbc4e.chunk.js"
   },
   {
     "revision": "392536fd511d0760ee46",
