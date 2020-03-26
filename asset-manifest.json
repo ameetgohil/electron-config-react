@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/electron-config-react/static/css/main.7ed36b81.chunk.css",
+    "main.js": "/electron-config-react/static/js/main.28b3424c.chunk.js",
+    "main.js.map": "/electron-config-react/static/js/main.28b3424c.chunk.js.map",
+    "runtime-main.js": "/electron-config-react/static/js/runtime-main.f65b6d6a.js",
+    "runtime-main.js.map": "/electron-config-react/static/js/runtime-main.f65b6d6a.js.map",
+    "static/js/2.29f3c088.chunk.js": "/electron-config-react/static/js/2.29f3c088.chunk.js",
+    "static/js/2.29f3c088.chunk.js.map": "/electron-config-react/static/js/2.29f3c088.chunk.js.map",
+    "index.html": "/electron-config-react/index.html",
+    "precache-manifest.931c4ee8345d7ad98cb984361c705495.js": "/electron-config-react/precache-manifest.931c4ee8345d7ad98cb984361c705495.js",
+    "service-worker.js": "/electron-config-react/service-worker.js",
+    "static/css/main.7ed36b81.chunk.css.map": "/electron-config-react/static/css/main.7ed36b81.chunk.css.map",
+    "static/js/2.29f3c088.chunk.js.LICENSE.txt": "/electron-config-react/static/js/2.29f3c088.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/electron-config-react/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f65b6d6a.js",
+    "static/js/2.29f3c088.chunk.js",
+    "static/css/main.7ed36b81.chunk.css",
+    "static/js/main.28b3424c.chunk.js"
+  ]
+}
