@@ -1,6 +1,6 @@
 const _ = require('lodash');
 
-var exports = module.exports = {};
+//let exports = module.exports = {};
 let elecLevString = [];
 let vertical = [];
 let elecLevel = [];
@@ -63,7 +63,7 @@ function printConfig(){
 }
 
 function makeConfigArray() {
-    elecLevStringNoOrbital.push("Electron Configuration with oribtal names");
+    elecLevStringNoOrbital.push("Electron Configuration without oribtal names");
     for(let i of _.range(vertical.length)) {
         let horizontal = vertical[i];
         let tempStr = "";
@@ -183,7 +183,7 @@ function makeAList(){
     }
 }
 
-exports.getConfiguration = (atomicNo) => {
+function getConfiguration(atomicNo) {
     elecLevString = [];
     vertical = [];
     elecLevel = [];
@@ -213,6 +213,8 @@ exports.getConfiguration = (atomicNo) => {
     else
         return elecLevStringNoOrbital;
 }
+
+export default getConfiguration;
 
 //exports.getConfiguration(10);
 //exports.getConfiguration(100);

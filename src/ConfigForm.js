@@ -1,6 +1,7 @@
 import React from 'react';
 //impor
-const ec = require('./electron-config');
+//const ec = require('./electron-config');
+import getConfiguration from "./electron-config";
 class ConfigForm extends React.Component{
     constructor(props){
         super(props);
@@ -35,7 +36,7 @@ class ConfigForm extends React.Component{
                 <div className="form-output">
                     Atomic Number: {this.state.atomicNo}
                     <div className="econfig">
-                {ec.getConfiguration(this.state.atomicNo).map((x) => {return <li>{x}</li>})}
+                {getConfiguration(this.state.atomicNo).map((x) => {return <li>{x}</li>})}
                 </div>
             </div>
             </div>
