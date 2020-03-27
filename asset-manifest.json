@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/electron-config-react/static/css/main.832c3e0a.chunk.css",
-    "main.js": "/electron-config-react/static/js/main.875fbc4e.chunk.js",
-    "main.js.map": "/electron-config-react/static/js/main.875fbc4e.chunk.js.map",
+    "main.css": "/electron-config-react/static/css/main.727abc9c.chunk.css",
+    "main.js": "/electron-config-react/static/js/main.41bf5ddc.chunk.js",
+    "main.js.map": "/electron-config-react/static/js/main.41bf5ddc.chunk.js.map",
     "runtime-main.js": "/electron-config-react/static/js/runtime-main.f65b6d6a.js",
     "runtime-main.js.map": "/electron-config-react/static/js/runtime-main.f65b6d6a.js.map",
     "static/js/2.acdda2e8.chunk.js": "/electron-config-react/static/js/2.acdda2e8.chunk.js",
     "static/js/2.acdda2e8.chunk.js.map": "/electron-config-react/static/js/2.acdda2e8.chunk.js.map",
     "index.html": "/electron-config-react/index.html",
-    "precache-manifest.cf19470ba38ab990cff280d451378d4f.js": "/electron-config-react/precache-manifest.cf19470ba38ab990cff280d451378d4f.js",
+    "precache-manifest.882ffad33e711068faa3a1954a9477c1.js": "/electron-config-react/precache-manifest.882ffad33e711068faa3a1954a9477c1.js",
     "service-worker.js": "/electron-config-react/service-worker.js",
-    "static/css/main.832c3e0a.chunk.css.map": "/electron-config-react/static/css/main.832c3e0a.chunk.css.map",
+    "static/css/main.727abc9c.chunk.css.map": "/electron-config-react/static/css/main.727abc9c.chunk.css.map",
     "static/js/2.acdda2e8.chunk.js.LICENSE.txt": "/electron-config-react/static/js/2.acdda2e8.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/electron-config-react/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f65b6d6a.js",
     "static/js/2.acdda2e8.chunk.js",
-    "static/css/main.832c3e0a.chunk.css",
-    "static/js/main.875fbc4e.chunk.js"
+    "static/css/main.727abc9c.chunk.css",
+    "static/js/main.41bf5ddc.chunk.js"
   ]
 }
