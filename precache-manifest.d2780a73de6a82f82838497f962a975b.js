@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4dfbae67059ed9e10d9a977b29189b73",
+    "revision": "6d0175a08471c72855febb370939dade",
     "url": "/electron-config-react/index.html"
   },
   {
